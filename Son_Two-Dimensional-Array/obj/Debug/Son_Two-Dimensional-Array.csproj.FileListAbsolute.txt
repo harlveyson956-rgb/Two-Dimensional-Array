@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\bin\Debug\Son_Two-Dimensional-Array.exe.config
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\bin\Debug\Son_Two-Dimensional-Array.exe
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\bin\Debug\Son_Two-Dimensional-Array.pdb
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\obj\Debug\Son_Two-Dimensional-Array.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\obj\Debug\Son_Two-Dimensional-Array.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\obj\Debug\Son_Two-Dimensional-Array.exe
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\obj\Debug\Son_Two-Dimensional-Array.pdb
+C:\Users\ACT-STUDENT\source\repos\Son_Two-Dimensional-Array\obj\Debug\Son_Two-Dimensional-Array.exe.config
