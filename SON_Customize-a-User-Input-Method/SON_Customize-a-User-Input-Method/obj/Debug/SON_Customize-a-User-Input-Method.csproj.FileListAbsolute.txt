@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\bin\Debug\SON_Customize-a-User-Input-Method.exe.config
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\bin\Debug\SON_Customize-a-User-Input-Method.exe
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\bin\Debug\SON_Customize-a-User-Input-Method.pdb
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\obj\Debug\SON_Customize-a-User-Input-Method.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\obj\Debug\SON_Customize-a-User-Input-Method.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\obj\Debug\SON_Customize-a-User-Input-Method.exe
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\obj\Debug\SON_Customize-a-User-Input-Method.pdb
+C:\Users\ACT-STUDENT\source\repos\SON_Customize-a-User-Input-Method\SON_Customize-a-User-Input-Method\obj\Debug\SON_Customize-a-User-Input-Method.exe.config
