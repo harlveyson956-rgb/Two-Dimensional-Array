@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9B96B4B5-1B76-48E3-86FA-C4750E1A64B6}</ProjectGuid>
+    <ProjectGuid>{56D91014-526A-40AF-9EA8-21F87A619528}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>SON_Customize_a_User_Input_Method</RootNamespace>
     <AssemblyName>SON_Customize-a-User-Input-Method</AssemblyName>
@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActionMovie.cs" />
+    <Compile Include="AnimatedMovie.cs" />
+    <Compile Include="Movie.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
-    <Compile Include="Userinput.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

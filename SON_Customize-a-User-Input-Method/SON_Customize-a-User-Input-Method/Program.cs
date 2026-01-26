@@ -6,51 +6,52 @@ using System.Threading.Tasks;
 
 namespace SON_Customize_a_User_Input_Method
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            
-            
-                // Chosen Dimensions: 3x3
-                // Data type: Student objects
+            const int ARRAY_SIZE = 7; // Fixed array size between 5 and 10
+            Movie[] movies = new Movie[ARRAY_SIZE];
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Welcome to the Movie Details Manager!");
+            Console.WriteLine("You will create 7 movie objects (mix of base, ActionMovie, or AnimatedMovie).");
 
-                // Initialize the 3x3 array
-                Student[,] students = new Student[3, 3];
-
-                // Use the UserInput class to populate the array with user input
-                for (int i = 0; i < 3; i++)
-                {   
-                    for (int j = 0; j < 3; j++)
-                    {
-                        string name = UserInput.GetString($"Enter name for Row {i}, Col {j}: ");
-                        int grade = UserInput.GetInt($"Enter grade for {name}: ");
-                        students[i, j] = new Student(name, grade);
-                    
-                    }
-                }
-
-                // Print the table Name
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("Table Representation of 3x3 Student Array");
-                Console.WriteLine("| Col 0 | Col 1 | Col 2 |");
-                Console.WriteLine("---|-------|-------|-------|");
-
-                // Use loop structure to access the 2D array of objects and print each row with row header
-                for (int i = 0; i < 3; i++)
-                {
-                    Console.Write($"Row {i} |");
-                    for (int j = 0; j < 3; j++)
-                    {
-                        Console.Write($" {students[i, j].Name} ({students[i, j].Grade}) |");
-                    }
-                    Console.WriteLine();
-                }
-
-                // Wait for user input to close the console
-                Console.ReadLine();
+            // Input loop using the reusable UserInput class
+            for (int i = 0; i < ARRAY_SIZE; i++)
+            {
+                movies[i] = UserInput.GetMovie(i + 1);
             }
+
+            // Display entered movies
+            Console.WriteLine("\nYou entered the following movies:");
+            for (int i = 0; i < ARRAY_SIZE; i++)
+            {
+                Console.WriteLine($"Movie {i + 1}:");
+                movies[i].DisplayDetails();
+                Console.WriteLine();
+            }
+
+            // Get sorting choice using the reusable UserInput class
+            string choice = UserInput.GetSortingChoice();
+            if (choice == "A")
+            {
+                movies = movies.OrderBy(m => m.Title).ToArray();
+            }
+            else
+            {
+                movies = movies.OrderByDescending(m => m.Title).ToArray();
+            }
+
+            // Display sorted movies
+            Console.WriteLine("\nSorted movies by Title:");
+            foreach (Movie p in movies)
+            {
+                p.DisplayDetails();
+                Console.WriteLine(); // Add a blank line for readability
+            }
+
+            // Keep console open
+            Console.ReadLine();
         }
     }
-    
-
+}
