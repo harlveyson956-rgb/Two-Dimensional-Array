@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\bin\Debug\SON_ACTIVITY-6.exe.config
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\bin\Debug\SON_ACTIVITY-6.exe
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\bin\Debug\SON_ACTIVITY-6.pdb
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\obj\Debug\SON_ACTIVITY-6.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\obj\Debug\SON_ACTIVITY-6.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\obj\Debug\SON_ACTIVITY-6.exe
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\obj\Debug\SON_ACTIVITY-6.pdb
+C:\Users\ACT-STUDENT\source\repos\SON_ACTIVITY-6\SON_ACTIVITY-6\obj\Debug\SON_ACTIVITY-6.exe.config
