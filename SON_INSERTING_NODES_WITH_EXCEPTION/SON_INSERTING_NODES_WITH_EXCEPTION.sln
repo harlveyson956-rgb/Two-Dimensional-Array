@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SON_INSERTING_NODES_WITH_EXCEPTION", "SON_INSERTING_NODES_WITH_EXCEPTION\SON_INSERTING_NODES_WITH_EXCEPTION.csproj", "{B99DA3A4-7208-4430-83AF-1FF21DE56112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99DA3A4-7208-4430-83AF-1FF21DE56112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99DA3A4-7208-4430-83AF-1FF21DE56112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99DA3A4-7208-4430-83AF-1FF21DE56112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99DA3A4-7208-4430-83AF-1FF21DE56112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B28C043A-5F0A-4A31-800A-518E0ECDB41C}
+	EndGlobalSection
+EndGlobal
