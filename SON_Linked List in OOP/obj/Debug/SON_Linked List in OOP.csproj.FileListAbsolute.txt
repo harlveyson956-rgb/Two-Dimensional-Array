@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\bin\Debug\SON_Linked List in OOP.exe.config
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\bin\Debug\SON_Linked List in OOP.exe
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\bin\Debug\SON_Linked List in OOP.pdb
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\obj\Debug\SON_Linked List in OOP.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\obj\Debug\SON_Linked List in OOP.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\obj\Debug\SON_Linked List in OOP.exe
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\obj\Debug\SON_Linked List in OOP.pdb
+C:\Users\ACT-STUDENT\source\repos\SON_Linked List in OOP\obj\Debug\SON_Linked List in OOP.exe.config
